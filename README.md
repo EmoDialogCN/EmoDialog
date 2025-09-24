@@ -76,8 +76,8 @@ Each video is named using the pattern `<date>_md5_<side>.mp4`, where `<date>` in
 > Make sure your system has [`git`](https://git-scm.com/), [`conda`](https://anaconda.org/anaconda/conda), and [`FFmpeg`](https://ffmpeg.org/download.html) installed.
 
 ```bash
-git clone https://github.com/EmoDialogCN/EmoDialogCN.git
-cd EmoDialogCN
+git clone https://github.com/EmoDialogCN/EmoDialog.git
+cd EmoDialog
 
 # create env using conda
 conda create -n emodialogcn python==3.8
